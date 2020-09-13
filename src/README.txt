@@ -1,17 +1,3 @@
-1001760386
-
-README
-SHUBHAM SANJAY SINNARKAR
-
-
-REFERRED URLS FOR PROJECT:
-1)https://github.com/mskonline/HTTPProject/tree/master/HTTPProject/src
-2)https://www.javatpoint.com/java-get-current-date
-3)https://www.ssaurel.com/blog/create-a-simple-http-web-server-in-java/
-4)https://www.youtube.com/watch?v=SfbkYpuwpx4
-5)https://www.baeldung.com/java-http-request
-6)Programming Assignment 1_reference_Java (attached)
-
 How to run the code?
 
 First, run the server file named HTTPWebServer.
